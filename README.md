@@ -1,17 +1,15 @@
 # Ruby on Rails Tutorial sample application
 
-This is the sample application for
+Sample application following the
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
-## License
+## Demo
 
-All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
-is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
+See it live at: Application is not hosted yet.
 
-## Getting started
+## Run locally
 
 To get started with the app, clone the repo and then install the needed gems:
 
