@@ -1,9 +1,7 @@
 # Ruby on Rails Tutorial sample application
 
-Sample application following the
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+Twitter-like application built following
+Michael Hartl's [Ruby on Rails Tutorial](https://www.railstutorial.org/book).
 
 ## Demo
 
@@ -34,6 +32,3 @@ If the test suite passes, you'll be ready to run the app in a local server:
 ```
 $ rails server
 ```
-
-For more information, see the
-[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
