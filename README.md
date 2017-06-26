@@ -5,9 +5,9 @@ Michael Hartl's [Ruby on Rails Tutorial](https://www.railstutorial.org/book).
 
 ## Demo
 
-See it live at: Application is not hosted yet.
+View live demo at: https://kv-rails-tutorial.herokuapp.com/
 
-## Run locally
+## Run Locally
 
 To get started with the app, clone the repo and then install the needed gems:
 
