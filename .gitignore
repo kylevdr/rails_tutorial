@@ -24,3 +24,6 @@
 
 # OSX
 .DS_Store
+
+# Uploaded images
+/public/uploads
