@@ -30,8 +30,6 @@ class User < ApplicationRecord
     end
   end
 
-  # Defines a proto-feed.
-  # See "Following users" for the full implementation.
   def feed
     following_ids = "SELECT followed_id FROM relationships
                      WHERE  follower_id = :user_id"
